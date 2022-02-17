@@ -6,3 +6,8 @@ Info => LaunchScreen => launch-screen-color ( Background Color )
 ```
 Bundle version string (short) => Appearance => Dark
 ```
+
+```
+Bundle.main.url
+Bundle.main.decode
+```

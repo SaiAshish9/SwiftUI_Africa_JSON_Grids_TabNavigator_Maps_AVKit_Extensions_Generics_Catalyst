@@ -1,10 +1,3 @@
-//
-//  VideoPlayerView.swift
-//  Africa
-//
-//  Created by Abdelrahman Mohamed on 3.10.2020.
-//
-
 import SwiftUI
 import AVKit
 

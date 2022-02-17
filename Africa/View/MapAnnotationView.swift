@@ -1,10 +1,3 @@
-//
-//  MapAnnotationView.swift
-//  Africa
-//
-//  Created by Abdelrahman Mohamed on 10.10.2020.
-//
-
 import SwiftUI
 
 struct MapAnnotationView: View {

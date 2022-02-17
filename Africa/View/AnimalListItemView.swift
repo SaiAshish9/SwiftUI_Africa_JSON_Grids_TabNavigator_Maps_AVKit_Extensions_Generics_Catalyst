@@ -1,10 +1,3 @@
-//
-//  AnimalListItemView.swift
-//  Africa
-//
-//  Created by Abdelrahman Mohamed on 21.09.2020.
-//
-
 import SwiftUI
 
 struct AnimalListItemView: View {

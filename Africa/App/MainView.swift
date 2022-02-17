@@ -1,10 +1,3 @@
-//
-//  MainView.swift
-//  Africa
-//
-//  Created by Abdelrahman Mohamed on 20.09.2020.
-//
-
 import SwiftUI
 
 struct MainView: View {

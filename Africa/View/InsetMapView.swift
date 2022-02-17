@@ -1,10 +1,3 @@
-//
-//  InsetMapView.swift
-//  Africa
-//
-//  Created by Abdelrahman Mohamed on 2.10.2020.
-//
-
 import SwiftUI
 import MapKit
 
